@@ -1,0 +1,1752 @@
+{
+    "Pacific/Niue": {
+        "offset": {
+            "hours": -11,
+            "minutes": 0
+        },
+        "label": "(GMT-11:00) Niue"
+    },
+    "Pacific/Pago_Pago": {
+        "offset": {
+            "hours": -11,
+            "minutes": 0
+        },
+        "label": "(GMT-11:00) Pago Pago"
+    },
+    "Pacific/Honolulu": {
+        "offset": {
+            "hours": -10,
+            "minutes": 0
+        },
+        "label": "(GMT-10:00) Hawaii Time"
+    },
+    "Pacific/Rarotonga": {
+        "offset": {
+            "hours": -10,
+            "minutes": 0
+        },
+        "label": "(GMT-10:00) Rarotonga"
+    },
+    "Pacific/Tahiti": {
+        "offset": {
+            "hours": -10,
+            "minutes": 0
+        },
+        "label": "(GMT-10:00) Tahiti"
+    },
+    "Pacific/Marquesas": {
+        "offset": {
+            "hours": -9,
+            "minutes": 30
+        },
+        "label": "(GMT-09:30) Marquesas"
+    },
+    "America/Anchorage": {
+        "offset": {
+            "hours": -9,
+            "minutes": 0
+        },
+        "label": "(GMT-09:00) Alaska Time"
+    },
+    "Pacific/Gambier": {
+        "offset": {
+            "hours": -9,
+            "minutes": 0
+        },
+        "label": "(GMT-09:00) Gambier"
+    },
+    "America/Los_Angeles": {
+        "offset": {
+            "hours": -8,
+            "minutes": 0
+        },
+        "label": "(GMT-08:00) Pacific Time"
+    },
+    "America/Tijuana": {
+        "offset": {
+            "hours": -8,
+            "minutes": 0
+        },
+        "label": "(GMT-08:00) Pacific Time - Tijuana"
+    },
+    "America/Vancouver": {
+        "offset": {
+            "hours": -8,
+            "minutes": 0
+        },
+        "label": "(GMT-08:00) Pacific Time - Vancouver"
+    },
+    "America/Whitehorse": {
+        "offset": {
+            "hours": -8,
+            "minutes": 0
+        },
+        "label": "(GMT-08:00) Pacific Time - Whitehorse"
+    },
+    "Pacific/Pitcairn": {
+        "offset": {
+            "hours": -8,
+            "minutes": 0
+        },
+        "label": "(GMT-08:00) Pitcairn"
+    },
+    "America/Denver": {
+        "offset": {
+            "hours": -7,
+            "minutes": 0
+        },
+        "label": "(GMT-07:00) Mountain Time"
+    },
+    "America/Phoenix": {
+        "offset": {
+            "hours": -7,
+            "minutes": 0
+        },
+        "label": "(GMT-07:00) Mountain Time - Arizona"
+    },
+    "America/Mazatlan": {
+        "offset": {
+            "hours": -7,
+            "minutes": 0
+        },
+        "label": "(GMT-07:00) Mountain Time - Chihuahua, Mazatlan"
+    },
+    "America/Dawson_Creek": {
+        "offset": {
+            "hours": -7,
+            "minutes": 0
+        },
+        "label": "(GMT-07:00) Mountain Time - Dawson Creek"
+    },
+    "America/Edmonton": {
+        "offset": {
+            "hours": -7,
+            "minutes": 0
+        },
+        "label": "(GMT-07:00) Mountain Time - Edmonton"
+    },
+    "America/Hermosillo": {
+        "offset": {
+            "hours": -7,
+            "minutes": 0
+        },
+        "label": "(GMT-07:00) Mountain Time - Hermosillo"
+    },
+    "America/Yellowknife": {
+        "offset": {
+            "hours": -7,
+            "minutes": 0
+        },
+        "label": "(GMT-07:00) Mountain Time - Yellowknife"
+    },
+    "America/Belize": {
+        "offset": {
+            "hours": -6,
+            "minutes": 0
+        },
+        "label": "(GMT-06:00) Belize"
+    },
+    "America/Chicago": {
+        "offset": {
+            "hours": -6,
+            "minutes": 0
+        },
+        "label": "(GMT-06:00) Central Time"
+    },
+    "America/Mexico_City": {
+        "offset": {
+            "hours": -6,
+            "minutes": 0
+        },
+        "label": "(GMT-06:00) Central Time - Mexico City"
+    },
+    "America/Regina": {
+        "offset": {
+            "hours": -6,
+            "minutes": 0
+        },
+        "label": "(GMT-06:00) Central Time - Regina"
+    },
+    "America/Tegucigalpa": {
+        "offset": {
+            "hours": -6,
+            "minutes": 0
+        },
+        "label": "(GMT-06:00) Central Time - Tegucigalpa"
+    },
+    "America/Winnipeg": {
+        "offset": {
+            "hours": -6,
+            "minutes": 0
+        },
+        "label": "(GMT-06:00) Central Time - Winnipeg"
+    },
+    "America/Costa_Rica": {
+        "offset": {
+            "hours": -6,
+            "minutes": 0
+        },
+        "label": "(GMT-06:00) Costa Rica"
+    },
+    "America/El_Salvador": {
+        "offset": {
+            "hours": -6,
+            "minutes": 0
+        },
+        "label": "(GMT-06:00) El Salvador"
+    },
+    "Pacific/Galapagos": {
+        "offset": {
+            "hours": -6,
+            "minutes": 0
+        },
+        "label": "(GMT-06:00) Galapagos"
+    },
+    "America/Guatemala": {
+        "offset": {
+            "hours": -6,
+            "minutes": 0
+        },
+        "label": "(GMT-06:00) Guatemala"
+    },
+    "America/Managua": {
+        "offset": {
+            "hours": -6,
+            "minutes": 0
+        },
+        "label": "(GMT-06:00) Managua"
+    },
+    "America/Cancun": {
+        "offset": {
+            "hours": -5,
+            "minutes": 0
+        },
+        "label": "(GMT-05:00) America Cancun"
+    },
+    "America/Bogota": {
+        "offset": {
+            "hours": -5,
+            "minutes": 0
+        },
+        "label": "(GMT-05:00) Bogota"
+    },
+    "Pacific/Easter": {
+        "offset": {
+            "hours": -5,
+            "minutes": 0
+        },
+        "label": "(GMT-05:00) Easter Island"
+    },
+    "America/New_York": {
+        "offset": {
+            "hours": -5,
+            "minutes": 0
+        },
+        "label": "(GMT-05:00) Eastern Time"
+    },
+    "America/Iqaluit": {
+        "offset": {
+            "hours": -5,
+            "minutes": 0
+        },
+        "label": "(GMT-05:00) Eastern Time - Iqaluit"
+    },
+    "America/Toronto": {
+        "offset": {
+            "hours": -5,
+            "minutes": 0
+        },
+        "label": "(GMT-05:00) Eastern Time - Toronto"
+    },
+    "America/Guayaquil": {
+        "offset": {
+            "hours": -5,
+            "minutes": 0
+        },
+        "label": "(GMT-05:00) Guayaquil"
+    },
+    "America/Havana": {
+        "offset": {
+            "hours": -5,
+            "minutes": 0
+        },
+        "label": "(GMT-05:00) Havana"
+    },
+    "America/Jamaica": {
+        "offset": {
+            "hours": -5,
+            "minutes": 0
+        },
+        "label": "(GMT-05:00) Jamaica"
+    },
+    "America/Lima": {
+        "offset": {
+            "hours": -5,
+            "minutes": 0
+        },
+        "label": "(GMT-05:00) Lima"
+    },
+    "America/Nassau": {
+        "offset": {
+            "hours": -5,
+            "minutes": 0
+        },
+        "label": "(GMT-05:00) Nassau"
+    },
+    "America/Panama": {
+        "offset": {
+            "hours": -5,
+            "minutes": 0
+        },
+        "label": "(GMT-05:00) Panama"
+    },
+    "America/Port-au-Prince": {
+        "offset": {
+            "hours": -5,
+            "minutes": 0
+        },
+        "label": "(GMT-05:00) Port-au-Prince"
+    },
+    "America/Rio_Branco": {
+        "offset": {
+            "hours": -5,
+            "minutes": 0
+        },
+        "label": "(GMT-05:00) Rio Branco"
+    },
+    "America/Halifax": {
+        "offset": {
+            "hours": -4,
+            "minutes": 0
+        },
+        "label": "(GMT-04:00) Atlantic Time - Halifax"
+    },
+    "America/Barbados": {
+        "offset": {
+            "hours": -4,
+            "minutes": 0
+        },
+        "label": "(GMT-04:00) Barbados"
+    },
+    "Atlantic/Bermuda": {
+        "offset": {
+            "hours": -4,
+            "minutes": 0
+        },
+        "label": "(GMT-04:00) Bermuda"
+    },
+    "America/Boa_Vista": {
+        "offset": {
+            "hours": -4,
+            "minutes": 0
+        },
+        "label": "(GMT-04:00) Boa Vista"
+    },
+    "America/Caracas": {
+        "offset": {
+            "hours": -4,
+            "minutes": 0
+        },
+        "label": "(GMT-04:00) Caracas"
+    },
+    "America/Curacao": {
+        "offset": {
+            "hours": -4,
+            "minutes": 0
+        },
+        "label": "(GMT-04:00) Curacao"
+    },
+    "America/Grand_Turk": {
+        "offset": {
+            "hours": -4,
+            "minutes": 0
+        },
+        "label": "(GMT-04:00) Grand Turk"
+    },
+    "America/Guyana": {
+        "offset": {
+            "hours": -4,
+            "minutes": 0
+        },
+        "label": "(GMT-04:00) Guyana"
+    },
+    "America/La_Paz": {
+        "offset": {
+            "hours": -4,
+            "minutes": 0
+        },
+        "label": "(GMT-04:00) La Paz"
+    },
+    "America/Manaus": {
+        "offset": {
+            "hours": -4,
+            "minutes": 0
+        },
+        "label": "(GMT-04:00) Manaus"
+    },
+    "America/Martinique": {
+        "offset": {
+            "hours": -4,
+            "minutes": 0
+        },
+        "label": "(GMT-04:00) Martinique"
+    },
+    "America/Port_of_Spain": {
+        "offset": {
+            "hours": -4,
+            "minutes": 0
+        },
+        "label": "(GMT-04:00) Port of Spain"
+    },
+    "America/Porto_Velho": {
+        "offset": {
+            "hours": -4,
+            "minutes": 0
+        },
+        "label": "(GMT-04:00) Porto Velho"
+    },
+    "America/Puerto_Rico": {
+        "offset": {
+            "hours": -4,
+            "minutes": 0
+        },
+        "label": "(GMT-04:00) Puerto Rico"
+    },
+    "America/Santo_Domingo": {
+        "offset": {
+            "hours": -4,
+            "minutes": 0
+        },
+        "label": "(GMT-04:00) Santo Domingo"
+    },
+    "America/Thule": {
+        "offset": {
+            "hours": -4,
+            "minutes": 0
+        },
+        "label": "(GMT-04:00) Thule"
+    },
+    "America/St_Johns": {
+        "offset": {
+            "hours": -3,
+            "minutes": 30
+        },
+        "label": "(GMT-03:30) Newfoundland Time - St. Johns"
+    },
+    "America/Araguaina": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Araguaina"
+    },
+    "America/Asuncion": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Asuncion"
+    },
+    "America/Belem": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Belem"
+    },
+    "America/Argentina/Buenos_Aires": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Buenos Aires"
+    },
+    "America/Campo_Grande": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Campo Grande"
+    },
+    "America/Cayenne": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Cayenne"
+    },
+    "America/Cuiaba": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Cuiaba"
+    },
+    "America/Fortaleza": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Fortaleza"
+    },
+    "America/Godthab": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Godthab"
+    },
+    "America/Maceio": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Maceio"
+    },
+    "America/Miquelon": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Miquelon"
+    },
+    "America/Montevideo": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Montevideo"
+    },
+    "Antarctica/Palmer": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Palmer"
+    },
+    "America/Paramaribo": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Paramaribo"
+    },
+    "America/Punta_Arenas": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Punta Arenas"
+    },
+    "America/Recife": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Recife"
+    },
+    "Antarctica/Rothera": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Rothera"
+    },
+    "America/Bahia": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Salvador"
+    },
+    "America/Santiago": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Santiago"
+    },
+    "Atlantic/Stanley": {
+        "offset": {
+            "hours": -3,
+            "minutes": 0
+        },
+        "label": "(GMT-03:00) Stanley"
+    },
+    "America/Noronha": {
+        "offset": {
+            "hours": -2,
+            "minutes": 0
+        },
+        "label": "(GMT-02:00) Noronha"
+    },
+    "America/Sao_Paulo": {
+        "offset": {
+            "hours": -2,
+            "minutes": 0
+        },
+        "label": "(GMT-02:00) Sao Paulo"
+    },
+    "Atlantic/South_Georgia": {
+        "offset": {
+            "hours": -2,
+            "minutes": 0
+        },
+        "label": "(GMT-02:00) South Georgia"
+    },
+    "Atlantic/Azores": {
+        "offset": {
+            "hours": -1,
+            "minutes": 0
+        },
+        "label": "(GMT-01:00) Azores"
+    },
+    "Atlantic/Cape_Verde": {
+        "offset": {
+            "hours": -1,
+            "minutes": 0
+        },
+        "label": "(GMT-01:00) Cape Verde"
+    },
+    "America/Scoresbysund": {
+        "offset": {
+            "hours": -1,
+            "minutes": 0
+        },
+        "label": "(GMT-01:00) Scoresbysund"
+    },
+    "Africa/Abidjan": {
+        "offset": {
+            "hours": 0,
+            "minutes": 0
+        },
+        "label": "(GMT+00:00) Abidjan"
+    },
+    "Africa/Accra": {
+        "offset": {
+            "hours": 0,
+            "minutes": 0
+        },
+        "label": "(GMT+00:00) Accra"
+    },
+    "Africa/Bissau": {
+        "offset": {
+            "hours": 0,
+            "minutes": 0
+        },
+        "label": "(GMT+00:00) Bissau"
+    },
+    "Atlantic/Canary": {
+        "offset": {
+            "hours": 0,
+            "minutes": 0
+        },
+        "label": "(GMT+00:00) Canary Islands"
+    },
+    "Africa/Casablanca": {
+        "offset": {
+            "hours": 0,
+            "minutes": 0
+        },
+        "label": "(GMT+00:00) Casablanca"
+    },
+    "America/Danmarkshavn": {
+        "offset": {
+            "hours": 0,
+            "minutes": 0
+        },
+        "label": "(GMT+00:00) Danmarkshavn"
+    },
+    "Europe/Dublin": {
+        "offset": {
+            "hours": 0,
+            "minutes": 0
+        },
+        "label": "(GMT+00:00) Dublin"
+    },
+    "Africa/El_Aaiun": {
+        "offset": {
+            "hours": 0,
+            "minutes": 0
+        },
+        "label": "(GMT+00:00) El Aaiun"
+    },
+    "Atlantic/Faroe": {
+        "offset": {
+            "hours": 0,
+            "minutes": 0
+        },
+        "label": "(GMT+00:00) Faeroe"
+    },
+    "Etc/GMT": {
+        "offset": {
+            "hours": 0,
+            "minutes": 0
+        },
+        "label": "(GMT+00:00) GMT (no daylight saving)"
+    },
+    "Europe/Lisbon": {
+        "offset": {
+            "hours": 0,
+            "minutes": 0
+        },
+        "label": "(GMT+00:00) Lisbon"
+    },
+    "Europe/London": {
+        "offset": {
+            "hours": 0,
+            "minutes": 0
+        },
+        "label": "(GMT+00:00) London"
+    },
+    "Africa/Monrovia": {
+        "offset": {
+            "hours": 0,
+            "minutes": 0
+        },
+        "label": "(GMT+00:00) Monrovia"
+    },
+    "Atlantic/Reykjavik": {
+        "offset": {
+            "hours": 0,
+            "minutes": 0
+        },
+        "label": "(GMT+00:00) Reykjavik"
+    },
+    "Africa/Algiers": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Algiers"
+    },
+    "Europe/Amsterdam": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Amsterdam"
+    },
+    "Europe/Andorra": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Andorra"
+    },
+    "Europe/Berlin": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Berlin"
+    },
+    "Europe/Brussels": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Brussels"
+    },
+    "Europe/Budapest": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Budapest"
+    },
+    "Europe/Belgrade": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Central European Time - Belgrade"
+    },
+    "Europe/Prague": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Central European Time - Prague"
+    },
+    "Africa/Ceuta": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Ceuta"
+    },
+    "Europe/Copenhagen": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Copenhagen"
+    },
+    "Europe/Gibraltar": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Gibraltar"
+    },
+    "Africa/Lagos": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Lagos"
+    },
+    "Europe/Luxembourg": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Luxembourg"
+    },
+    "Europe/Madrid": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Madrid"
+    },
+    "Europe/Malta": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Malta"
+    },
+    "Europe/Monaco": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Monaco"
+    },
+    "Africa/Ndjamena": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Ndjamena"
+    },
+    "Europe/Oslo": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Oslo"
+    },
+    "Europe/Paris": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Paris"
+    },
+    "Europe/Rome": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Rome"
+    },
+    "Europe/Stockholm": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Stockholm"
+    },
+    "Europe/Tirane": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Tirane"
+    },
+    "Africa/Tunis": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Tunis"
+    },
+    "Europe/Vienna": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Vienna"
+    },
+    "Europe/Warsaw": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Warsaw"
+    },
+    "Europe/Zurich": {
+        "offset": {
+            "hours": 1,
+            "minutes": 0
+        },
+        "label": "(GMT+01:00) Zurich"
+    },
+    "Asia/Amman": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Amman"
+    },
+    "Europe/Athens": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Athens"
+    },
+    "Asia/Beirut": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Beirut"
+    },
+    "Europe/Bucharest": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Bucharest"
+    },
+    "Africa/Cairo": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Cairo"
+    },
+    "Europe/Chisinau": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Chisinau"
+    },
+    "Asia/Damascus": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Damascus"
+    },
+    "Asia/Gaza": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Gaza"
+    },
+    "Europe/Helsinki": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Helsinki"
+    },
+    "Asia/Jerusalem": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Jerusalem"
+    },
+    "Africa/Johannesburg": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Johannesburg"
+    },
+    "Africa/Khartoum": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Khartoum"
+    },
+    "Europe/Kiev": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Kiev"
+    },
+    "Africa/Maputo": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Maputo"
+    },
+    "Europe/Kaliningrad": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Moscow-01 - Kaliningrad"
+    },
+    "Asia/Nicosia": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Nicosia"
+    },
+    "Europe/Riga": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Riga"
+    },
+    "Europe/Sofia": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Sofia"
+    },
+    "Europe/Tallinn": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Tallinn"
+    },
+    "Africa/Tripoli": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Tripoli"
+    },
+    "Europe/Vilnius": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Vilnius"
+    },
+    "Africa/Windhoek": {
+        "offset": {
+            "hours": 2,
+            "minutes": 0
+        },
+        "label": "(GMT+02:00) Windhoek"
+    },
+    "Asia/Baghdad": {
+        "offset": {
+            "hours": 3,
+            "minutes": 0
+        },
+        "label": "(GMT+03:00) Baghdad"
+    },
+    "Europe/Istanbul": {
+        "offset": {
+            "hours": 3,
+            "minutes": 0
+        },
+        "label": "(GMT+03:00) Istanbul"
+    },
+    "Europe/Minsk": {
+        "offset": {
+            "hours": 3,
+            "minutes": 0
+        },
+        "label": "(GMT+03:00) Minsk"
+    },
+    "Europe/Moscow": {
+        "offset": {
+            "hours": 3,
+            "minutes": 0
+        },
+        "label": "(GMT+03:00) Moscow+00 - Moscow"
+    },
+    "Africa/Nairobi": {
+        "offset": {
+            "hours": 3,
+            "minutes": 0
+        },
+        "label": "(GMT+03:00) Nairobi"
+    },
+    "Asia/Qatar": {
+        "offset": {
+            "hours": 3,
+            "minutes": 0
+        },
+        "label": "(GMT+03:00) Qatar"
+    },
+    "Asia/Riyadh": {
+        "offset": {
+            "hours": 3,
+            "minutes": 0
+        },
+        "label": "(GMT+03:00) Riyadh"
+    },
+    "Antarctica/Syowa": {
+        "offset": {
+            "hours": 3,
+            "minutes": 0
+        },
+        "label": "(GMT+03:00) Syowa"
+    },
+    "Asia/Tehran": {
+        "offset": {
+            "hours": 3,
+            "minutes": 30
+        },
+        "label": "(GMT+03:30) Tehran"
+    },
+    "Asia/Baku": {
+        "offset": {
+            "hours": 4,
+            "minutes": 0
+        },
+        "label": "(GMT+04:00) Baku"
+    },
+    "Asia/Dubai": {
+        "offset": {
+            "hours": 4,
+            "minutes": 0
+        },
+        "label": "(GMT+04:00) Dubai"
+    },
+    "Indian/Mahe": {
+        "offset": {
+            "hours": 4,
+            "minutes": 0
+        },
+        "label": "(GMT+04:00) Mahe"
+    },
+    "Indian/Mauritius": {
+        "offset": {
+            "hours": 4,
+            "minutes": 0
+        },
+        "label": "(GMT+04:00) Mauritius"
+    },
+    "Europe/Samara": {
+        "offset": {
+            "hours": 4,
+            "minutes": 0
+        },
+        "label": "(GMT+04:00) Moscow+01 - Samara"
+    },
+    "Indian/Reunion": {
+        "offset": {
+            "hours": 4,
+            "minutes": 0
+        },
+        "label": "(GMT+04:00) Reunion"
+    },
+    "Asia/Tbilisi": {
+        "offset": {
+            "hours": 4,
+            "minutes": 0
+        },
+        "label": "(GMT+04:00) Tbilisi"
+    },
+    "Asia/Yerevan": {
+        "offset": {
+            "hours": 4,
+            "minutes": 0
+        },
+        "label": "(GMT+04:00) Yerevan"
+    },
+    "Asia/Kabul": {
+        "offset": {
+            "hours": 4,
+            "minutes": 30
+        },
+        "label": "(GMT+04:30) Kabul"
+    },
+    "Asia/Aqtau": {
+        "offset": {
+            "hours": 5,
+            "minutes": 0
+        },
+        "label": "(GMT+05:00) Aqtau"
+    },
+    "Asia/Aqtobe": {
+        "offset": {
+            "hours": 5,
+            "minutes": 0
+        },
+        "label": "(GMT+05:00) Aqtobe"
+    },
+    "Asia/Ashgabat": {
+        "offset": {
+            "hours": 5,
+            "minutes": 0
+        },
+        "label": "(GMT+05:00) Ashgabat"
+    },
+    "Asia/Dushanbe": {
+        "offset": {
+            "hours": 5,
+            "minutes": 0
+        },
+        "label": "(GMT+05:00) Dushanbe"
+    },
+    "Asia/Karachi": {
+        "offset": {
+            "hours": 5,
+            "minutes": 0
+        },
+        "label": "(GMT+05:00) Karachi"
+    },
+    "Indian/Kerguelen": {
+        "offset": {
+            "hours": 5,
+            "minutes": 0
+        },
+        "label": "(GMT+05:00) Kerguelen"
+    },
+    "Indian/Maldives": {
+        "offset": {
+            "hours": 5,
+            "minutes": 0
+        },
+        "label": "(GMT+05:00) Maldives"
+    },
+    "Antarctica/Mawson": {
+        "offset": {
+            "hours": 5,
+            "minutes": 0
+        },
+        "label": "(GMT+05:00) Mawson"
+    },
+    "Asia/Yekaterinburg": {
+        "offset": {
+            "hours": 5,
+            "minutes": 0
+        },
+        "label": "(GMT+05:00) Moscow+02 - Yekaterinburg"
+    },
+    "Asia/Tashkent": {
+        "offset": {
+            "hours": 5,
+            "minutes": 0
+        },
+        "label": "(GMT+05:00) Tashkent"
+    },
+    "Asia/Colombo": {
+        "offset": {
+            "hours": 5,
+            "minutes": 30
+        },
+        "label": "(GMT+05:30) Colombo"
+    },
+    "Asia/Kolkata": {
+        "offset": {
+            "hours": 5,
+            "minutes": 30
+        },
+        "label": "(GMT+05:30) India Standard Time"
+    },
+    "Asia/Kathmandu": {
+        "offset": {
+            "hours": 5,
+            "minutes": 45
+        },
+        "label": "(GMT+05:45) Kathmandu"
+    },
+    "Asia/Almaty": {
+        "offset": {
+            "hours": 6,
+            "minutes": 0
+        },
+        "label": "(GMT+06:00) Almaty"
+    },
+    "Asia/Bishkek": {
+        "offset": {
+            "hours": 6,
+            "minutes": 0
+        },
+        "label": "(GMT+06:00) Bishkek"
+    },
+    "Indian/Chagos": {
+        "offset": {
+            "hours": 6,
+            "minutes": 0
+        },
+        "label": "(GMT+06:00) Chagos"
+    },
+    "Asia/Dhaka": {
+        "offset": {
+            "hours": 6,
+            "minutes": 0
+        },
+        "label": "(GMT+06:00) Dhaka"
+    },
+    "Asia/Omsk": {
+        "offset": {
+            "hours": 6,
+            "minutes": 0
+        },
+        "label": "(GMT+06:00) Moscow+03 - Omsk"
+    },
+    "Asia/Thimphu": {
+        "offset": {
+            "hours": 6,
+            "minutes": 0
+        },
+        "label": "(GMT+06:00) Thimphu"
+    },
+    "Antarctica/Vostok": {
+        "offset": {
+            "hours": 6,
+            "minutes": 0
+        },
+        "label": "(GMT+06:00) Vostok"
+    },
+    "Indian/Cocos": {
+        "offset": {
+            "hours": 6,
+            "minutes": 30
+        },
+        "label": "(GMT+06:30) Cocos"
+    },
+    "Asia/Yangon": {
+        "offset": {
+            "hours": 6,
+            "minutes": 30
+        },
+        "label": "(GMT+06:30) Rangoon"
+    },
+    "Asia/Bangkok": {
+        "offset": {
+            "hours": 7,
+            "minutes": 0
+        },
+        "label": "(GMT+07:00) Bangkok"
+    },
+    "Indian/Christmas": {
+        "offset": {
+            "hours": 7,
+            "minutes": 0
+        },
+        "label": "(GMT+07:00) Christmas"
+    },
+    "Antarctica/Davis": {
+        "offset": {
+            "hours": 7,
+            "minutes": 0
+        },
+        "label": "(GMT+07:00) Davis"
+    },
+    "Asia/Saigon": {
+        "offset": {
+            "hours": 7,
+            "minutes": 0
+        },
+        "label": "(GMT+07:00) Hanoi"
+    },
+    "Asia/Hovd": {
+        "offset": {
+            "hours": 7,
+            "minutes": 0
+        },
+        "label": "(GMT+07:00) Hovd"
+    },
+    "Asia/Jakarta": {
+        "offset": {
+            "hours": 7,
+            "minutes": 0
+        },
+        "label": "(GMT+07:00) Jakarta"
+    },
+    "Asia/Krasnoyarsk": {
+        "offset": {
+            "hours": 7,
+            "minutes": 0
+        },
+        "label": "(GMT+07:00) Moscow+04 - Krasnoyarsk"
+    },
+    "Asia/Brunei": {
+        "offset": {
+            "hours": 8,
+            "minutes": 0
+        },
+        "label": "(GMT+08:00) Brunei"
+    },
+    "Asia/Shanghai": {
+        "offset": {
+            "hours": 8,
+            "minutes": 0
+        },
+        "label": "(GMT+08:00) China Time - Beijing"
+    },
+    "Asia/Choibalsan": {
+        "offset": {
+            "hours": 8,
+            "minutes": 0
+        },
+        "label": "(GMT+08:00) Choibalsan"
+    },
+    "Asia/Hong_Kong": {
+        "offset": {
+            "hours": 8,
+            "minutes": 0
+        },
+        "label": "(GMT+08:00) Hong Kong"
+    },
+    "Asia/Kuala_Lumpur": {
+        "offset": {
+            "hours": 8,
+            "minutes": 0
+        },
+        "label": "(GMT+08:00) Kuala Lumpur"
+    },
+    "Asia/Macau": {
+        "offset": {
+            "hours": 8,
+            "minutes": 0
+        },
+        "label": "(GMT+08:00) Macau"
+    },
+    "Asia/Makassar": {
+        "offset": {
+            "hours": 8,
+            "minutes": 0
+        },
+        "label": "(GMT+08:00) Makassar"
+    },
+    "Asia/Manila": {
+        "offset": {
+            "hours": 8,
+            "minutes": 0
+        },
+        "label": "(GMT+08:00) Manila"
+    },
+    "Asia/Irkutsk": {
+        "offset": {
+            "hours": 8,
+            "minutes": 0
+        },
+        "label": "(GMT+08:00) Moscow+05 - Irkutsk"
+    },
+    "Asia/Singapore": {
+        "offset": {
+            "hours": 8,
+            "minutes": 0
+        },
+        "label": "(GMT+08:00) Singapore"
+    },
+    "Asia/Taipei": {
+        "offset": {
+            "hours": 8,
+            "minutes": 0
+        },
+        "label": "(GMT+08:00) Taipei"
+    },
+    "Asia/Ulaanbaatar": {
+        "offset": {
+            "hours": 8,
+            "minutes": 0
+        },
+        "label": "(GMT+08:00) Ulaanbaatar"
+    },
+    "Australia/Perth": {
+        "offset": {
+            "hours": 8,
+            "minutes": 0
+        },
+        "label": "(GMT+08:00) Western Time - Perth"
+    },
+    "Asia/Pyongyang": {
+        "offset": {
+            "hours": 8,
+            "minutes": 30
+        },
+        "label": "(GMT+08:30) Pyongyang"
+    },
+    "Asia/Dili": {
+        "offset": {
+            "hours": 9,
+            "minutes": 0
+        },
+        "label": "(GMT+09:00) Dili"
+    },
+    "Asia/Jayapura": {
+        "offset": {
+            "hours": 9,
+            "minutes": 0
+        },
+        "label": "(GMT+09:00) Jayapura"
+    },
+    "Asia/Yakutsk": {
+        "offset": {
+            "hours": 9,
+            "minutes": 0
+        },
+        "label": "(GMT+09:00) Moscow+06 - Yakutsk"
+    },
+    "Pacific/Palau": {
+        "offset": {
+            "hours": 9,
+            "minutes": 0
+        },
+        "label": "(GMT+09:00) Palau"
+    },
+    "Asia/Seoul": {
+        "offset": {
+            "hours": 9,
+            "minutes": 0
+        },
+        "label": "(GMT+09:00) Seoul"
+    },
+    "Asia/Tokyo": {
+        "offset": {
+            "hours": 9,
+            "minutes": 0
+        },
+        "label": "(GMT+09:00) Tokyo"
+    },
+    "Australia/Darwin": {
+        "offset": {
+            "hours": 9,
+            "minutes": 30
+        },
+        "label": "(GMT+09:30) Central Time - Darwin"
+    },
+    "Antarctica/DumontDUrville": {
+        "offset": {
+            "hours": 10,
+            "minutes": 0
+        },
+        "label": "(GMT+10:00) Dumont D'Urville"
+    },
+    "Australia/Brisbane": {
+        "offset": {
+            "hours": 10,
+            "minutes": 0
+        },
+        "label": "(GMT+10:00) Eastern Time - Brisbane"
+    },
+    "Pacific/Guam": {
+        "offset": {
+            "hours": 10,
+            "minutes": 0
+        },
+        "label": "(GMT+10:00) Guam"
+    },
+    "Asia/Vladivostok": {
+        "offset": {
+            "hours": 10,
+            "minutes": 0
+        },
+        "label": "(GMT+10:00) Moscow+07 - Vladivostok"
+    },
+    "Pacific/Port_Moresby": {
+        "offset": {
+            "hours": 10,
+            "minutes": 0
+        },
+        "label": "(GMT+10:00) Port Moresby"
+    },
+    "Pacific/Chuuk": {
+        "offset": {
+            "hours": 10,
+            "minutes": 0
+        },
+        "label": "(GMT+10:00) Truk"
+    },
+    "Australia/Adelaide": {
+        "offset": {
+            "hours": 10,
+            "minutes": 30
+        },
+        "label": "(GMT+10:30) Central Time - Adelaide"
+    },
+    "Antarctica/Casey": {
+        "offset": {
+            "hours": 11,
+            "minutes": 0
+        },
+        "label": "(GMT+11:00) Casey"
+    },
+    "Australia/Hobart": {
+        "offset": {
+            "hours": 11,
+            "minutes": 0
+        },
+        "label": "(GMT+11:00) Eastern Time - Hobart"
+    },
+    "Australia/Sydney": {
+        "offset": {
+            "hours": 11,
+            "minutes": 0
+        },
+        "label": "(GMT+11:00) Eastern Time - Melbourne, Sydney"
+    },
+    "Pacific/Efate": {
+        "offset": {
+            "hours": 11,
+            "minutes": 0
+        },
+        "label": "(GMT+11:00) Efate"
+    },
+    "Pacific/Guadalcanal": {
+        "offset": {
+            "hours": 11,
+            "minutes": 0
+        },
+        "label": "(GMT+11:00) Guadalcanal"
+    },
+    "Pacific/Kosrae": {
+        "offset": {
+            "hours": 11,
+            "minutes": 0
+        },
+        "label": "(GMT+11:00) Kosrae"
+    },
+    "Asia/Magadan": {
+        "offset": {
+            "hours": 11,
+            "minutes": 0
+        },
+        "label": "(GMT+11:00) Moscow+08 - Magadan"
+    },
+    "Pacific/Norfolk": {
+        "offset": {
+            "hours": 11,
+            "minutes": 0
+        },
+        "label": "(GMT+11:00) Norfolk"
+    },
+    "Pacific/Noumea": {
+        "offset": {
+            "hours": 11,
+            "minutes": 0
+        },
+        "label": "(GMT+11:00) Noumea"
+    },
+    "Pacific/Pohnpei": {
+        "offset": {
+            "hours": 11,
+            "minutes": 0
+        },
+        "label": "(GMT+11:00) Ponape"
+    },
+    "Pacific/Funafuti": {
+        "offset": {
+            "hours": 12,
+            "minutes": 0
+        },
+        "label": "(GMT+12:00) Funafuti"
+    },
+    "Pacific/Kwajalein": {
+        "offset": {
+            "hours": 12,
+            "minutes": 0
+        },
+        "label": "(GMT+12:00) Kwajalein"
+    },
+    "Pacific/Majuro": {
+        "offset": {
+            "hours": 12,
+            "minutes": 0
+        },
+        "label": "(GMT+12:00) Majuro"
+    },
+    "Asia/Kamchatka": {
+        "offset": {
+            "hours": 12,
+            "minutes": 0
+        },
+        "label": "(GMT+12:00) Moscow+09 - Petropavlovsk-Kamchatskiy"
+    },
+    "Pacific/Nauru": {
+        "offset": {
+            "hours": 12,
+            "minutes": 0
+        },
+        "label": "(GMT+12:00) Nauru"
+    },
+    "Pacific/Tarawa": {
+        "offset": {
+            "hours": 12,
+            "minutes": 0
+        },
+        "label": "(GMT+12:00) Tarawa"
+    },
+    "Pacific/Wake": {
+        "offset": {
+            "hours": 12,
+            "minutes": 0
+        },
+        "label": "(GMT+12:00) Wake"
+    },
+    "Pacific/Wallis": {
+        "offset": {
+            "hours": 12,
+            "minutes": 0
+        },
+        "label": "(GMT+12:00) Wallis"
+    },
+    "Pacific/Auckland": {
+        "offset": {
+            "hours": 13,
+            "minutes": 0
+        },
+        "label": "(GMT+13:00) Auckland"
+    },
+    "Pacific/Enderbury": {
+        "offset": {
+            "hours": 13,
+            "minutes": 0
+        },
+        "label": "(GMT+13:00) Enderbury"
+    },
+    "Pacific/Fakaofo": {
+        "offset": {
+            "hours": 13,
+            "minutes": 0
+        },
+        "label": "(GMT+13:00) Fakaofo"
+    },
+    "Pacific/Fiji": {
+        "offset": {
+            "hours": 13,
+            "minutes": 0
+        },
+        "label": "(GMT+13:00) Fiji"
+    },
+    "Pacific/Tongatapu": {
+        "offset": {
+            "hours": 13,
+            "minutes": 0
+        },
+        "label": "(GMT+13:00) Tongatapu"
+    },
+    "Pacific/Apia": {
+        "offset": {
+            "hours": 14,
+            "minutes": 0
+        },
+        "label": "(GMT+14:00) Apia"
+    },
+    "Pacific/Kiritimati": {
+        "offset": {
+            "hours": 14,
+            "minutes": 0
+        },
+        "label": "(GMT+14:00) Kiritimati"
+    }
+}

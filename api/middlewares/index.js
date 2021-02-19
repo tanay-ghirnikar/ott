@@ -1,0 +1,1 @@
+exports.uploadFiles = require('./uploadFiles');

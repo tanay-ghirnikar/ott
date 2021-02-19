@@ -1,2 +1,4 @@
 # ott
-A clone product for an OTT platform made with node.
+
+#### TODOS
+- [ ] Add `tz-offset` to dates module
